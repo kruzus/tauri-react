@@ -53,6 +53,10 @@ h1 {
   text-align: center;
 }
 
+body {
+  user-select: none;
+}
+
 input,
 button {
   border-radius: 8px;
