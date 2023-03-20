@@ -2,11 +2,6 @@
 
 This template should help get you started developing with Tauri, React and Typescript in Vite.
 
-## Recommended IDE Setup
+## context disabled (right click and refresh disabled)
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
-
-# Libraries going to be used...
-
-[audi lib](https://lib.rs/crates/rodio)
-
+I wanted to achieve native feel with these settings. 
